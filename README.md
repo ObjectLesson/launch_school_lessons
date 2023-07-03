@@ -1,5 +1,7 @@
 #Ye Olde Gitte Steppes #
 
+Check it out!
+
 Git steps:
 1. Initialize repository with git init
 2. Create changes to project files
