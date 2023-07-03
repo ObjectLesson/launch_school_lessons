@@ -1,6 +1,12 @@
 #Ye Olde Gitte Steppes #
 
-Check it out!
+Check it out! We're making a table of contents now. 
+
+Table of contents
+
+1. Git Steps
+2. The unbearable weight of existance
+3. Infinite nothingness 
 
 Git steps:
 1. Initialize repository with git init
