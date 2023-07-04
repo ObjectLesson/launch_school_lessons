@@ -1,4 +1,6 @@
-#Ye Olde Gitte Steppes #
+#Ye Olde Gitte Steppe #
+
+Hello, world!
 
 Check it out! We're making a table of contents now. 
 
