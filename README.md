@@ -1,6 +1,5 @@
 #Ye Olde Gitte Steppes#
-(Aka, the Steps of Git)
-(Otherwise known as: I have no idea what I'm doing!)
+Beep boop, who gots tha funk?
 
 Hello, world!
 
